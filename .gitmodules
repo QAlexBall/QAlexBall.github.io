@@ -1,0 +1,4 @@
+[submodule "qalexball/react-gh-webui"]
+	path = qalexball/react-gh-webui
+	url = https://github.com/QAlexBall/react-gh-webui.git
+    branch = gh-pages
